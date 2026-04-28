@@ -29,7 +29,7 @@ Some examples of topics:
   <th>Where</th>
   <td>
    Northwestern Micghian College (NMC)<br/>
-   Timothy J. Nelson Innovation Center (TJNIC) building<br/>
+   <a href="https://maps.app.goo.gl/GXEQxYpDg6zW5dK79">Timothy J. Nelson Innovation Center (TJNIC)</a><br/>
    Room #15 (Downstairs)
   </td>
  </tr>
@@ -47,7 +47,7 @@ Some examples of topics:
 <table>
  <tr>
   <th>Topic</th>
-  <td>Rocketry Project</td>
+  <td>Rocketry Project (cont'd)</td>
  </tr>
  <tr>
   <th>When</th>
