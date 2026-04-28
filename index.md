@@ -19,7 +19,7 @@ Some examples of topics:
 - Much more!
 
 ---
-# Meeting Times
+# Meeting Recurrance
 <table>
  <tr>
   <th>What</th>
@@ -36,7 +36,7 @@ Some examples of topics:
  <tr>
   <th>When</th>
   <td>
-   Monthly on 2nd Monday<br/>
+   2nd Monday of month<br/>
    6:30-8:00 PM
   </td>
  </tr>
