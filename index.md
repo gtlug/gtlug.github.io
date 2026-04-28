@@ -1,7 +1,7 @@
 <img src="gtlug_tux.png" alt="" align="right" />
 
-# GTLUG &mdash; Grand Traverse Linux Users Group
-A geographically local group whose purpose is to serve the community by exploring and sharing open source technologies, with a focus on the Linux operating system.
+# Grand Traverse Linux Users Group
+GTLUG is a geographically local group whose purpose is to serve the community by exploring and sharing open source technologies, with a focus on the Linux operating system.
 
 Some examples of topics:
 - Linux Pro/Hobby/Home Use
