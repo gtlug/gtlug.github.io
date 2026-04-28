@@ -1,4 +1,4 @@
-<img src="gtlug_tux.png" alt="" align="right" />
+<img src="./images/gtlug_tux.png" alt="" align="right" />
 
 # Grand Traverse Linux Users Group
 GTLUG is a geographically local group whose purpose is to serve the community by exploring and sharing open source technologies, with a focus on the Linux operating system.
