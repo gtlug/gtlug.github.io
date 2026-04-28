@@ -1,3 +1,4 @@
+---
 <img src="./images/gtlug_tux.png" alt="" align="right" />
 
 # Grand Traverse Linux Users Group
@@ -17,6 +18,7 @@ Some examples of topics:
 - Gaming
 - Much more!
 
+---
 # Meeting Times
 <table>
  <tr>
@@ -40,6 +42,7 @@ Some examples of topics:
  </tr>
 </table>
 
+---
 # Upcoming Meeting
 **Topic**: Rocketry Project
 
@@ -58,5 +61,6 @@ Regardless of whether you were at previous meetings or not, your presence is wel
 
 We will also take time to discuss group infrastructure. With the intent of reducing our dependence on Facebook.
 
+---
 # Past Meetings
 For an archive of past meetings, stay tuned!
