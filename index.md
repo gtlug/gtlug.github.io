@@ -1,5 +1,6 @@
-# GTLUG
-# Grand Traverse Linux Users Group
+<img src="gtlug_tux.png" alt="" align="right" />
+
+# GTLUG &mdash; Grand Traverse Linux Users Group
 A geographically local group whose purpose is to serve the community by exploring and sharing open source technologies, with a focus on the Linux operating system.
 
 Some examples of topics:
@@ -17,14 +18,27 @@ Some examples of topics:
 - Much more!
 
 # Meeting Times
-| | |
-| :--- | :--- |
-| **What** | GTLUG Monthly Meeting |
-| **Where** | Northwestern Micghian College (NMC) |
-|          | Timothy J. Nelson Innovation Center (TJNIC) building |
-|          | Room #15 (Downstairs) |
-| **When** | Monthly, 2nd Monday   |
-|          | 6:30-8:00 PM          |
+<table>
+ <tr>
+  <th>What</th>
+  <td>GTLUG Monthly Meeting</td>
+ </tr>
+ <tr>
+  <th>Where</th>
+  <td>
+   Northwestern Micghian College (NMC)<br/>
+   Timothy J. Nelson Innovation Center (TJNIC) building<br/>
+   Room #15 (Downstairs)
+  </td>
+ </tr>
+ <tr>
+  <th>When</th>
+  <td>
+   Monthly on 2nd Monday<br/>
+   6:30-8:00 PM
+  </td>
+ </tr>
+</table>
 
 # Upcoming Meeting
 **Topic**: Rocketry Project
