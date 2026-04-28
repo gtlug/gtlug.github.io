@@ -19,7 +19,7 @@ Some examples of topics:
 - Much more!
 
 ---
-# Meeting Recurrance
+# Meeting Recurrence
 <table>
  <tr>
   <th>What</th>
