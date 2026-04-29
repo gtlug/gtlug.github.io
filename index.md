@@ -5,9 +5,9 @@
 GTLUG is a geographically local group whose purpose is to serve the community by exploring and sharing open source technologies, with a focus on the Linux operating system.
 
 Some examples of topics:
+- Free & Open Source Software (FOSS)
 - Linux Pro/Hobby/Home Use
 - Windows/Mac Users Welcome
-- Free & Open Source Software (FOSS)
 - Networking
 - Programming
 - STEAM
