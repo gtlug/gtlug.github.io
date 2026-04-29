@@ -1,4 +1,3 @@
----
 <img src="./images/gtlug_tux.png" alt="" align="right" />
 
 # Grand Traverse Linux Users Group
@@ -18,7 +17,6 @@ Some examples of topics:
 - Gaming
 - Much more!
 
----
 # Meeting Recurrence
 <table>
  <tr>
@@ -42,7 +40,6 @@ Some examples of topics:
  </tr>
 </table>
 
----
 # Upcoming Meeting
 <table>
  <tr>
@@ -72,6 +69,5 @@ We will also take time to discuss group infrastructure. With the intent of reduc
  </tr>
 </table>
 
----
 # Past Meetings
 For an archive of past meetings, stay tuned!
