@@ -74,4 +74,6 @@ We will also take time to discuss group infrastructure. With the intent of reduc
 <hr/>
 
 # Past Meetings
-For an archive of past meetings, stay tuned!
+Here is an archive of past meetings.
+- [2006](2006/m- eetings.html)
+- More to come!
