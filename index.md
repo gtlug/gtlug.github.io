@@ -46,12 +46,12 @@ Some examples of topics:
 # Upcoming Meeting
 <table>
  <tr>
-  <th>Topic</th>
-  <td>Rocketry Project (cont'd)</td>
- </tr>
- <tr>
   <th>When</th>
   <td>Monday, May 11th @ 6:30PM</td>
+ </tr>
+ <tr>
+  <th>Topic</th>
+  <td>Rocketry Project (cont'd)</td>
  </tr>
  <tr>
   <th>Description</th>
