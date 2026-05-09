@@ -2,9 +2,9 @@
 <img src="./images/gtlug_tux.png" alt="" align="right" />
 
 # Grand Traverse Linux Users Group
-GTLUG is a geographically local group whose purpose is to serve the community by exploring and sharing open source technologies, with a focus on the Linux operating system.
+GTLUG is a geographically local group (Traverse City, Michiaan) that meets regularly to serve the community by exploring and sharing open source technologies.  We have been meeting since 1999.  Linux is just a single open technologoy that we embrace but we dive into diverse ranges of technologicial topics.
 
-Some examples of topics:
+Some examples:
 - Free & Open Source Software (FOSS)
 - Linux Pro/Hobby/Home Use
 - Windows/Mac Users Welcome
@@ -17,6 +17,8 @@ Some examples of topics:
 - Radio
 - Gaming
 - Much more!
+
+If any of this sounds good to you, or you have something you would like to share with the group, we would love to see you.
 <hr/>
 
 # Meeting Recurrence
@@ -75,7 +77,11 @@ We will also take time to discuss group infrastructure. With the intent of reduc
 
 # Past Meetings
 Here is an archive of past meetings.
+- [2026](2026/meetings.html)
+- More to come!
 
+We're currently in the process of importing events, so for a full listing of historical events, please check out our [Facebook page][facebook-url].
+  
 [repo-url]: https://github.com/gtlug/gtlug.github.io/
 [contributors-shield]: https://img.shields.io/github/contributors/gtlug/gtlug.github.io.svg?style=for-the-badge
 [contributors-url]: https://github.com/gtlug/gtlug.github.io/graphs/contributors
@@ -93,5 +99,3 @@ Here is an archive of past meetings.
 [NodeJS-url]: https://nodejs.org/
 [NodeJS]: https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white
 [Best-README-url]: https://github.com/othneildrew/Best-README-Template 
-- [2026](2026/meetings.html)
-- More to come!
