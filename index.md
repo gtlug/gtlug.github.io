@@ -75,5 +75,23 @@ We will also take time to discuss group infrastructure. With the intent of reduc
 
 # Past Meetings
 Here is an archive of past meetings.
+
+[repo-url]: https://github.com/gtlug/gtlug.github.io/
+[contributors-shield]: https://img.shields.io/github/contributors/gtlug/gtlug.github.io.svg?style=for-the-badge
+[contributors-url]: https://github.com/gtlug/gtlug.github.io/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/gtlug/gtlug.github.io.svg?style=for-the-badge
+[forks-url]: https://github.com/gtlug/gtlug.github.io/network/members
+[stars-shield]: https://img.shields.io/github/stars/gtlug/gtlug.github.io.svg?style=for-the-badge
+[stars-url]: https://github.com/NiX0n/mumblsrt/stargazers
+[issues-shield]: https://img.shields.io/github/issues/gtlug/gtlug.github.io.svg?style=for-the-badge
+[issues-url]: https://github.com/gtlug/gtlug.github.io/issues
+[license-shield]: https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge
+[license-url]: https://opensource.org/licenses/MIT
+[facebook-url]: https://www.facebook.com/GTLUG/
+[facebook-svg]: https://upload.wikimedia.org/wikipedia/commons/b/b9/2023_Facebook_icon.svg
+[SQLite-url]: https://sqlite.org/
+[NodeJS-url]: https://nodejs.org/
+[NodeJS]: https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white
+[Best-README-url]: https://github.com/othneildrew/Best-README-Template 
 - [2026](2026/meetings.html)
 - More to come!
