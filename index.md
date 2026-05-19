@@ -46,34 +46,26 @@ If any of this sounds good to you, or you have something you would like to share
 <hr/>
 
 # Upcoming Meeting
+<!-- BEGIN UPCOMING EVENT -->
 <table>
  <tr>
   <th>When</th>
-  <td>Monday, May 11th @ 6:30PM</td>
+  <td>Monday, June 8th @ 6:30PM</td>
  </tr>
  <tr>
   <th>Topic</th>
-  <td>Rocketry Project (cont'd)</td>
+  <td>GrapheneOS</td>
  </tr>
  <tr>
   <th>Description</th>
   <td>
-At our July meeting last year, we kicked off a rocketry project. We've had a number of meetings already either partly or entirely focusing on this project.
-
-This meeting we'll be discussing project updates; protocol decisions; as well as antenna designs, and how they can be integrated into the rocket fuselage/nosecone.
-
-Specifically:
- - Testing Existing Parts
- - Telemetry Demodulation in GNU Radio
- - Antenna Design
-
-Regardless of whether you were at previous meetings or not, your presence is welcome. This is a multi-interest project, involving rocketry, physics, UAVs, electronics, radio, 3D modeling and printing, and of course programming. So if any of this is interesting to you, please join us.
-
-We will also take time to discuss group infrastructure. With the intent of reducing our dependence on Facebook.
+This month we'll be discussing GrapheneOS, a security focused Android distribution, built on the vanilla Android Open Source Project (AOSP). Last year we did a similar talk on LineageOS, which also takes a similar approach. We'll look at how to install and what it's like to daily drive.
+We will also take time to discuss group infrastructure. With the continued intent of reducing our dependence on Facebook.
   </td>
  </tr>
 </table>
 <hr/>
+<!-- END UPCOMING EVENT -->
 
 # Past Meetings
 Here is an archive of past meetings.
