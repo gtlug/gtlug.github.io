@@ -9,6 +9,7 @@
 const 
   {log, error} = console,
   config = require('./config'),
+  Promise = require('bluebird'),
   axios = require("axios"),
   sqlite3 = require("sqlite3").verbose(),
   DB_PATH = config.db.path,
@@ -23,7 +24,10 @@ const
  * @returns {sqlite3.Database}
  */
 function openDb() {
-  return new sqlite3.Database(DB_PATH);
+  const db = new sqlite3.Database(DB_PATH);
+  //db.exec("PRAGMA journal_mode = WAL");
+  //db.exec("PRAGMA busy_timeout = 5000");
+  return db;
 }
 
 /**
@@ -131,7 +135,10 @@ function upsertEvent(db, event) {
       },
       (err) => {
         if (err) return reject(err);
-        resolve();
+        stmt.finalize((finalizeErr) => {
+          if (finalizeErr) return reject(finalizeErr);
+          resolve();
+        });
       }
     );
   });
@@ -237,7 +244,7 @@ async function main() {
 
     log("Upsert complete.");
   } catch (err) {
-    error("Error:", err.response?.data || err.message);
+    error("Error during sync:", err.response?.data || err.message);
   } finally {
     db.close();
   }
