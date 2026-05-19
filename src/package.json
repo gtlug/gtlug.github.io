@@ -1,0 +1,20 @@
+{
+	"name": "gtlug.github.io",
+	"version": "1.0.0",
+	"description": "Grand Traverse Linux Users Group (GTLUG) GitHub Pages Official Website",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"gtlug","facebook","sqlite3","axios","dayjs"
+	],
+	"author": "Null Character",
+	"license": "MIT",
+	"dependencies": {
+		"bluebird": "*",
+		"sqlite3": "*",
+		"axios": "*",
+		"dayjs": "*"
+	}
+}
