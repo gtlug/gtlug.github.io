@@ -17,10 +17,6 @@ const
   sqlite3 = require("sqlite3").verbose(),
   dayjs = require("dayjs"),
   DB_PATH = config.db.path,
-  PAGE_ID = config.fb.pageId,
-  PAGE_ACCESS_TOKEN = config.fb.pageAcccessToken,
-  GRAPH_VERSION = config.fb.graphVersion,
-  FULL_REFRESH = config.sync.fullRefresh,
   OUTPUT_DIR = path.join(__dirname, "../events")
 ;
 
