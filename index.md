@@ -69,11 +69,22 @@ We will also take time to discuss group infrastructure. With the continued inten
 
 # Past Meetings
 Here is an archive of past meetings.
-- [2026](2026/meetings.html)
-- More to come!
+- [2026](/events/2026/)
+- [2025](/events/2025/)
+- [2024](/events/2024/)
+- [2020](/events/2020/)
+- [2019](/events/2019/)
+- [2018](/events/2018/)
+- [2017](/events/2017/)
+- [2016](/events/2016/)
+- [2015](/events/2015/)
+- [2014](/events/2014/)
+- [2013](/events/2013/)
+- [2012](/events/2012/)
+- [2011](/events/2011/)
 
-We're currently in the process of importing events, so for a full listing of historical events, please check out our [Facebook page][facebook-url].
-  
+Check out our [Facebook page][facebook-url] for the latest details.
+
 [repo-url]: https://github.com/gtlug/gtlug.github.io/
 [contributors-shield]: https://img.shields.io/github/contributors/gtlug/gtlug.github.io.svg?style=for-the-badge
 [contributors-url]: https://github.com/gtlug/gtlug.github.io/graphs/contributors
