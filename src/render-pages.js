@@ -3,11 +3,10 @@
  *
  * Generates Markdown files for GitHub Pages based on events stored in SQLite.
  * Produces:
- *   - /events/YYYY.md for each year
+ *   - /events/YYYY/index.md for each year
  *   - /events/upcoming.md for the next upcoming event
- *
- * Requirements:
- *   npm install sqlite3 dayjs
+ * Feature Requeests:
+ *   - @TODO /index.md update
  */
 const 
   {log, error} = console,
