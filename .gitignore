@@ -1,3 +1,6 @@
 src/config.js
 src/node_modules
 src/package-lock.json
+
+# Temporarily ignore sqlite db until it's stable, to avoid wasting space in repo
+data/*
