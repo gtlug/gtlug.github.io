@@ -9,17 +9,21 @@
  * Requirements:
  *   npm install sqlite3 dayjs
  */
-
-const fs = require("fs");
-const path = require("path");
-const sqlite3 = require("sqlite3").verbose();
-const dayjs = require("dayjs");
-
-/** @type {string} Path to SQLite DB */
-const DB_PATH = path.join(__dirname, "../data/db.sqlite");
-
-/** @type {string} Output directory for Markdown pages */
-const OUTPUT_DIR = path.join(__dirname, "../events");
+const 
+  {log, error} = console,
+  fs = require("fs"),
+  path = require("path"),
+  config = require('./config'),
+  Promise = require('bluebird'),
+  sqlite3 = require("sqlite3").verbose(),
+  dayjs = require("dayjs"),
+  DB_PATH = config.db.path,
+  PAGE_ID = config.fb.pageId,
+  PAGE_ACCESS_TOKEN = config.fb.pageAcccessToken,
+  GRAPH_VERSION = config.fb.graphVersion,
+  FULL_REFRESH = config.sync.fullRefresh,
+  OUTPUT_DIR = path.join(__dirname, "../events")
+;
 
 /**
  * Ensure output directory exists.
@@ -45,7 +49,7 @@ function openDb() {
  */
 function getAllEvents(db) {
   return new Promise((resolve, reject) => {
-    db.all("SELECT * FROM events ORDER BY start_time ASC", (err, rows) => {
+    db.all("SELECT * FROM events ORDER BY start_time DESC", (err, rows) => {
       if (err) return reject(err);
       resolve(rows);
     });
@@ -75,30 +79,10 @@ function groupEventsByYear(events) {
 function findUpcomingEvent(events) {
   const now = dayjs();
   const futureEvents = events.filter(e => dayjs(e.start_time).isAfter(now));
-  return futureEvents.length > 0 ? futureEvents[0] : null;
-}
-
-/**
- * Convert an event object into Markdown.
- * @param {Object} event
- * @returns {string}
- */
-function eventToMarkdown(event) {
-  const start = dayjs(event.start_time).format("MMMM D, YYYY h:mm A");
-  const end = event.end_time
-    ? dayjs(event.end_time).format("MMMM D, YYYY h:mm A")
-    : null;
-
-  return `
-## ${event.name}
-
-**Date:** ${start}  
-${end ? `**Ends:** ${end}  ` : ""}
-
-${event.description || ""}
-
-${event.ticket_uri ? `**Tickets:** ${event.ticket_uri}` : ""}
-`;
+  // all events are in desc order, so we want the last event listed
+  // because that's the more recent upcoming event
+  // usually not a problem if only one upcoming event
+  return futureEvents.length > 0 ? futureEvents.pop() : null;
 }
 
 /**
@@ -107,22 +91,17 @@ ${event.ticket_uri ? `**Tickets:** ${event.ticket_uri}` : ""}
  * @param {Object[]} events
  */
 function writeYearPage(year, events) {
-  const md = [
-    `---`,
-    `title: Events for ${year}`,
-    `layout: default`,
-    `---`,
-    ``,
-    `# Events for ${year}`,
-    ``
-  ];
+  const md = require('./md/events/year.md')(year, events);
 
-  for (const event of events) {
-    md.push(eventToMarkdown(event));
+  const 
+    filePath = path.join(OUTPUT_DIR, `${year}/index.md`)
+    dir = path.dirname(filePath)
+  ;
+  if (!fs.existsSync(dir)) {
+    fs.mkdirSync(dir, { recursive: true });
   }
-
-  const filePath = path.join(OUTPUT_DIR, `${year}.md`);
-  fs.writeFileSync(filePath, md.join("\n"), "utf8");
+  log('Rendered Events Year Page', year);
+  fs.writeFileSync(filePath, md, "utf8");
 }
 
 /**
@@ -130,29 +109,25 @@ function writeYearPage(year, events) {
  * @param {Object|null} event
  */
 function writeUpcomingPage(event) {
-  const filePath = path.join(OUTPUT_DIR, `upcoming.md`);
+  const 
+    filePath = path.join(OUTPUT_DIR, `upcoming.md`),
+    dir = path.dirname(filePath)
+  ;
+  let md;
 
   if (!event) {
-    fs.writeFileSync(
-      filePath,
-      `---\ntitle: Upcoming Event\nlayout: default\n---\n\n# No upcoming events.\n`,
-      "utf8"
-    );
-    return;
+    // @todo move
+    md = `---\ntitle: Upcoming Event\nlayout: default\n---\n\n# No upcoming events.\n`
+  }
+  else {
+    md = require('./md/events/upcoming.md')(event);
   }
 
-  const md = [
-    `---`,
-    `title: Upcoming Event`,
-    `layout: default`,
-    `---`,
-    ``,
-    `# Next Upcoming Event`,
-    ``,
-    eventToMarkdown(event)
-  ];
-
-  fs.writeFileSync(filePath, md.join("\n"), "utf8");
+  if (!fs.existsSync(dir)) {
+    fs.mkdirSync(dir, { recursive: true });
+  }
+  log('Rendered Upcoming Event Page');
+  fs.writeFileSync(filePath, md, "utf8");
 }
 
 /**
