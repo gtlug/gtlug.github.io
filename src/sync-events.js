@@ -30,6 +30,24 @@ function openDb() {
   return db;
 }
 
+
+/**
+ * Get the latest event updated_time
+ * @param {sqlite3.Database} db
+ * @returns {Promise<string|null>}
+ */
+function getLatestUpdatedTime(db) {
+  return new Promise((resolve, reject) => {
+    db.get(
+      "SELECT updated_time FROM events ORDER BY updated_time DESC LIMIT 1",
+      (err, row) => {
+        if (err) return reject(err);
+        resolve(row ? row.updated_time : null);
+      }
+    );
+  });
+}
+
 /**
  * Get the latest event ID in the database (for incremental sync).
  * @param {sqlite3.Database} db
@@ -145,7 +163,8 @@ function upsertEvent(db, event) {
 }
 
 /**
- * Fetch a single page of events.
+ * Fetch a single page of events from the Facebook Graph API,
+ * ordered by updated_time descending so incremental sync is reliable.
  * @param {"past" | "upcoming"} timeFilter
  * @param {string|null} afterCursor
  * @returns {Promise<{events: Object[], nextCursor: string|null}>}
@@ -156,6 +175,7 @@ async function fetchEventPage(timeFilter, afterCursor = null) {
   const params = {
     access_token: PAGE_ACCESS_TOKEN,
     time_filter: timeFilter,
+    order: "updated_time_descending",
     fields: [
       "id","name","description","start_time","end_time","updated_time","created_time",
       "place","cover","event_times","is_online","attending_count","interested_count",
@@ -185,7 +205,7 @@ async function fetchEventPage(timeFilter, afterCursor = null) {
  * @param {string|null} latestId - Latest event ID already in SQLite
  * @returns {Promise<Object[]>}
  */
-async function fetchAllEvents(timeFilter, latestId = null) {
+async function fetchAllEvents(timeFilter, latestUpdatedTime = null) {
   let allEvents = [];
   let cursor = null;
   let stop = false;
@@ -194,13 +214,12 @@ async function fetchAllEvents(timeFilter, latestId = null) {
     const { events, nextCursor } = await fetchEventPage(timeFilter, cursor);
 
     for (const event of events) {
-      // If incremental mode is enabled and we hit the last known event, stop.
-      if (latestId && event.id === latestId) {
+      // If incremental mode is enabled and this event is older or equal, stop.
+      if (latestUpdatedTime && event.updated_time <= latestUpdatedTime) {
         stop = true;
         break;
       }
 
-      // TODO: Add any custom logic here (logging, filtering, etc.)
       allEvents.push(event);
     }
 
@@ -211,7 +230,6 @@ async function fetchAllEvents(timeFilter, latestId = null) {
   return allEvents;
 }
 
-
 /**
  * Main sync function.
  */
@@ -219,24 +237,23 @@ async function main() {
   const db = openDb();
 
   try {
-    let latestId = null;
+    let latestUpdatedTime = null;
 
     if (!FULL_REFRESH) {
-      latestId = await getLatestEventId(db);
-      log("Latest event ID in DB:", latestId);
+      latestUpdatedTime = await getLatestUpdatedTime(db);
+      console.log("Incremental mode. Latest updated_time in DB:", latestUpdatedTime);
     } else {
-      log("Full refresh mode enabled.");
+      console.log("Full refresh mode enabled.");
     }
 
-    log("Fetching UPCOMING events...");
-    const futureEvents = await fetchAllEvents("upcoming", latestId);
+    console.log("Fetching upcoming events...");
+    const upcomingEvents = await fetchAllEvents("upcoming", latestUpdatedTime);
 
-    log("Fetching PAST events...");
-    const pastEvents = await fetchAllEvents("past", latestId);
+    console.log("Fetching PAST events...");
+    const pastEvents = await fetchAllEvents("past", latestUpdatedTime);
 
-    const allEvents = [...futureEvents, ...pastEvents];
-
-    log(`Fetched ${allEvents.length} new/updated events.`);
+    const allEvents = [...upcomingEvents, ...pastEvents];
+    console.log(`Fetched ${allEvents.length} new or updated events.`);
 
     for (const event of allEvents) {
       await upsertEvent(db, event);
