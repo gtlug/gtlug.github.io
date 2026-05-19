@@ -1,31 +1,22 @@
 /**
  * Facebook Page Events Sync Script
- * - Fetches all past + future events from Graph API v25.0
+ * - Fetches all past + UPCOMING events from Graph API v25.0
  * - Supports incremental sync (based on latest event ID in SQLite)
  * - Supports full refresh mode
  * - Performs UPSERT into SQLite
- *
- * Requirements:
- *   npm install axios sqlite3
  */
 
-const axios = require("axios");
-const sqlite3 = require("sqlite3").verbose();
-
-/** @type {string} Path to your SQLite DB */
-const DB_PATH = "db.sqlite";
-
-/** @type {string} Your Page ID */
-const PAGE_ID = "YOUR_PAGE_ID_HERE";
-
-/** @type {string} Your Page Access Token */
-const PAGE_ACCESS_TOKEN = "YOUR_PAGE_ACCESS_TOKEN_HERE";
-
-/** @type {string} Graph API version */
-const GRAPH_VERSION = "v25.0";
-
-/** @type {boolean} Set true for full refresh, false for incremental */
-const FULL_REFRESH = false;
+const 
+  {log, error} = console,
+  config = require('./config'),
+  axios = require("axios"),
+  sqlite3 = require("sqlite3").verbose(),
+  DB_PATH = config.db.path,
+  PAGE_ID = config.fb.pageId,
+  PAGE_ACCESS_TOKEN = config.fb.pageAcccessToken,
+  GRAPH_VERSION = config.fb.graphVersion,
+  FULL_REFRESH = config.sync.fullRefresh
+;
 
 /**
  * Open SQLite connection
@@ -148,7 +139,7 @@ function upsertEvent(db, event) {
 
 /**
  * Fetch a single page of events.
- * @param {"past" | "future"} timeFilter
+ * @param {"past" | "upcoming"} timeFilter
  * @param {string|null} afterCursor
  * @returns {Promise<{events: Object[], nextCursor: string|null}>}
  */
@@ -169,7 +160,7 @@ async function fetchEventPage(timeFilter, afterCursor = null) {
   };
 
   if (afterCursor) params.after = afterCursor;
-
+  log('Feching Event Page', afterCursor);
   const response = await axios.get(url, { params });
 
   return {
@@ -179,11 +170,11 @@ async function fetchEventPage(timeFilter, afterCursor = null) {
 }
 
 /**
- * Fetch ALL events for a given time filter ("past" or "future"),
+ * Fetch ALL events for a given time filter ("past" or "upcoming"),
  * automatically paging through all results.
  * Stops early if incremental mode detects an already-synced event.
  *
- * @param {"past" | "future"} timeFilter
+ * @param {"past" | "upcoming"} timeFilter
  * @param {string|null} latestId - Latest event ID already in SQLite
  * @returns {Promise<Object[]>}
  */
@@ -225,28 +216,28 @@ async function main() {
 
     if (!FULL_REFRESH) {
       latestId = await getLatestEventId(db);
-      console.log("Latest event ID in DB:", latestId);
+      log("Latest event ID in DB:", latestId);
     } else {
-      console.log("Full refresh mode enabled.");
+      log("Full refresh mode enabled.");
     }
 
-    console.log("Fetching FUTURE events...");
-    const futureEvents = await fetchAllEvents("future", latestId);
+    log("Fetching UPCOMING events...");
+    const futureEvents = await fetchAllEvents("upcoming", latestId);
 
-    console.log("Fetching PAST events...");
+    log("Fetching PAST events...");
     const pastEvents = await fetchAllEvents("past", latestId);
 
     const allEvents = [...futureEvents, ...pastEvents];
 
-    console.log(`Fetched ${allEvents.length} new/updated events.`);
+    log(`Fetched ${allEvents.length} new/updated events.`);
 
     for (const event of allEvents) {
       await upsertEvent(db, event);
     }
 
-    console.log("Upsert complete.");
+    log("Upsert complete.");
   } catch (err) {
-    console.error("Error:", err.response?.data || err.message);
+    error("Error:", err.response?.data || err.message);
   } finally {
     db.close();
   }
