@@ -14,12 +14,12 @@
  <tr>
   <th>Description</th>
   <td>
-Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.
-
-At this meeting, Russ will chat about OctoPi.  This is a Raspberry Pi distribution for 3D printers.
-
-If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).
-
+Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.<br/>
+<br/>
+At this meeting, Russ will chat about OctoPi.  This is a Raspberry Pi distribution for 3D printers.<br/>
+<br/>
+If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).<br/>
+<br/>
 After the meeting, we will retire to some establishment nearby for beverages and food.
   </td>
  </tr>
@@ -38,12 +38,12 @@ After the meeting, we will retire to some establishment nearby for beverages and
  <tr>
   <th>Description</th>
   <td>
-Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.
-
-At this meeting, we'll be talking about KDE--the Kool Desktop Environment.  It's been a while since we talked about desktop environments, and KDE is a classic.  It comes bundled with a great assortment of applications.
-
-If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).
-
+Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.<br/>
+<br/>
+At this meeting, we'll be talking about KDE--the Kool Desktop Environment.  It's been a while since we talked about desktop environments, and KDE is a classic.  It comes bundled with a great assortment of applications.<br/>
+<br/>
+If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).<br/>
+<br/>
 After the meeting, we will retire to some establishment nearby for beverages and food.
   </td>
  </tr>
@@ -62,12 +62,12 @@ After the meeting, we will retire to some establishment nearby for beverages and
  <tr>
   <th>Description</th>
   <td>
-Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.
-
-At this meeting, we'll be talking about Blockspring.  This is a data integration tool that allows you to easily hook up spreadsheet data to web APIs.
-
-If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).
-
+Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.<br/>
+<br/>
+At this meeting, we'll be talking about Blockspring.  This is a data integration tool that allows you to easily hook up spreadsheet data to web APIs.<br/>
+<br/>
+If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).<br/>
+<br/>
 After the meeting, we will retire to some establishment nearby for beverages and food.
   </td>
  </tr>
@@ -86,10 +86,10 @@ After the meeting, we will retire to some establishment nearby for beverages and
  <tr>
   <th>Description</th>
   <td>
-Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.
-
-If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).
-
+Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.<br/>
+<br/>
+If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).<br/>
+<br/>
 After the meeting, we will retire to some establishment nearby for beverages and food.
   </td>
  </tr>
@@ -108,12 +108,12 @@ After the meeting, we will retire to some establishment nearby for beverages and
  <tr>
   <th>Description</th>
   <td>
-Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.
-
-At this month's meeting, we'll be talking about programmable microcontrollers.  Particularly, we'll be showing off Arduinos and some Raspberry Pis.  If you have one that you'd like to show, you're very welcome.
-
-If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).
-
+Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.<br/>
+<br/>
+At this month's meeting, we'll be talking about programmable microcontrollers.  Particularly, we'll be showing off Arduinos and some Raspberry Pis.  If you have one that you'd like to show, you're very welcome.<br/>
+<br/>
+If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).<br/>
+<br/>
 After the meeting, we will retire to some establishment nearby for beverages and food.
   </td>
  </tr>
@@ -132,10 +132,10 @@ After the meeting, we will retire to some establishment nearby for beverages and
  <tr>
   <th>Description</th>
   <td>
-Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.
-
-If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).
-
+Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.<br/>
+<br/>
+If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).<br/>
+<br/>
 After the meeting, we will retire to some establishment nearby for beverages and food.
   </td>
  </tr>
@@ -154,10 +154,10 @@ After the meeting, we will retire to some establishment nearby for beverages and
  <tr>
   <th>Description</th>
   <td>
-Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.
-
-If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).
-
+Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.<br/>
+<br/>
+If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).<br/>
+<br/>
 After the meeting, we will retire to some establishment nearby for beverages and food.
   </td>
  </tr>
@@ -176,12 +176,12 @@ After the meeting, we will retire to some establishment nearby for beverages and
  <tr>
   <th>Description</th>
   <td>
-Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.
-
-This month we'll be cracking open Randy's BASH script project.  Much progress has been made since the last time we looked at it.
-
-If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).
-
+Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.<br/>
+<br/>
+This month we'll be cracking open Randy's BASH script project.  Much progress has been made since the last time we looked at it.<br/>
+<br/>
+If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).<br/>
+<br/>
 After the meeting, we will retire to some establishment nearby for beverages and food.
   </td>
  </tr>
@@ -200,14 +200,14 @@ After the meeting, we will retire to some establishment nearby for beverages and
  <tr>
   <th>Description</th>
   <td>
-Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.
-
-This month we'll have a "panel" discuss Version Control Systems (VCSes), like Subversion (SVN) and Git.
-
-Last month we didn't have office elections as originally planned.  This means we'll be holding them this meeting instead. If you have an interest in one of the group's offices, please make your intention known.
-
-If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).
-
+Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.<br/>
+<br/>
+This month we'll have a "panel" discuss Version Control Systems (VCSes), like Subversion (SVN) and Git.<br/>
+<br/>
+Last month we didn't have office elections as originally planned.  This means we'll be holding them this meeting instead. If you have an interest in one of the group's offices, please make your intention known.<br/>
+<br/>
+If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).<br/>
+<br/>
 After the meeting, we will retire to some establishment nearby for beverages and food.
   </td>
  </tr>
@@ -226,14 +226,14 @@ After the meeting, we will retire to some establishment nearby for beverages and
  <tr>
   <th>Description</th>
   <td>
-Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.
-
-This month Ryan B. will be giving a long awaited talk on Blender.  Blender is a free and open source 3D animation suite.
-
-It's also February, which means its time for office elections again.  If you have an interest in one of the group's offices, please make your intention known.
-
-If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).
-
+Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.<br/>
+<br/>
+This month Ryan B. will be giving a long awaited talk on Blender.  Blender is a free and open source 3D animation suite.<br/>
+<br/>
+It's also February, which means its time for office elections again.  If you have an interest in one of the group's offices, please make your intention known.<br/>
+<br/>
+If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).<br/>
+<br/>
 After the meeting, we will retire to some establishment nearby for beverages and food.
   </td>
  </tr>
@@ -252,12 +252,12 @@ After the meeting, we will retire to some establishment nearby for beverages and
  <tr>
   <th>Description</th>
   <td>
-Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.
-
-At "Show & Tell", you're encouraged to bring in something cool you've come across or done to share (i.e. a gift, tool, toy, hack, etc.). This is also an opportunity to give a short talk on a topic that would otherwise not take up an entire meeting.
-
-If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).
-
+Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.<br/>
+<br/>
+At "Show & Tell", you're encouraged to bring in something cool you've come across or done to share (i.e. a gift, tool, toy, hack, etc.). This is also an opportunity to give a short talk on a topic that would otherwise not take up an entire meeting.<br/>
+<br/>
+If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).<br/>
+<br/>
 After the meeting, we will retire to some establishment nearby for beverages and food.
   </td>
  </tr>

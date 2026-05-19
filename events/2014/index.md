@@ -14,12 +14,12 @@
  <tr>
   <th>Description</th>
   <td>
-Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.
-
-At this meeting, we'll be chatting about Ubuntu Studio.  A multimedia-focused Ubuntu-based Linux distribution.
-
-If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).
-
+Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.<br/>
+<br/>
+At this meeting, we'll be chatting about Ubuntu Studio.  A multimedia-focused Ubuntu-based Linux distribution.<br/>
+<br/>
+If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).<br/>
+<br/>
 After the meeting, we will retire to some establishment nearby for beverages and food.
   </td>
  </tr>
@@ -38,12 +38,12 @@ After the meeting, we will retire to some establishment nearby for beverages and
  <tr>
   <th>Description</th>
   <td>
-Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.
-
-At this month's meeting, NiX0n will be discussing RequireJS, a JavaScript file and module/dependency loader.
-
-If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).
-
+Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.<br/>
+<br/>
+At this month's meeting, NiX0n will be discussing RequireJS, a JavaScript file and module/dependency loader.<br/>
+<br/>
+If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).<br/>
+<br/>
 After the meeting, we will retire to some establishment nearby for beverages and food.
   </td>
  </tr>
@@ -62,10 +62,10 @@ After the meeting, we will retire to some establishment nearby for beverages and
  <tr>
   <th>Description</th>
   <td>
-Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.
-
-If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).
-
+Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.<br/>
+<br/>
+If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).<br/>
+<br/>
 After the meeting, we will retire to some establishment nearby for beverages and food.
   </td>
  </tr>
@@ -84,12 +84,12 @@ After the meeting, we will retire to some establishment nearby for beverages and
  <tr>
   <th>Description</th>
   <td>
-Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.
-
-In this meeting we'll have crash course in Mono/C# development.  Mono is an open source re-implementation of the .NET framework and related technologies.  The talk will NOT be comprehensive.  It will be more of a "hands on"/exploratory interactive presentation.
-
-If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).
-
+Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.<br/>
+<br/>
+In this meeting we'll have crash course in Mono/C# development.  Mono is an open source re-implementation of the .NET framework and related technologies.  The talk will NOT be comprehensive.  It will be more of a "hands on"/exploratory interactive presentation.<br/>
+<br/>
+If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).<br/>
+<br/>
 After the meeting, we will retire to some establishment nearby for beverages and food.
   </td>
  </tr>
@@ -108,12 +108,12 @@ After the meeting, we will retire to some establishment nearby for beverages and
  <tr>
   <th>Description</th>
   <td>
-Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.
-
-Subject to be announced...
-
-If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).
-
+Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.<br/>
+<br/>
+Subject to be announced...<br/>
+<br/>
+If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).<br/>
+<br/>
 After the meeting, we will retire to some establishment nearby for beverages and food.
   </td>
  </tr>
@@ -132,10 +132,10 @@ After the meeting, we will retire to some establishment nearby for beverages and
  <tr>
   <th>Description</th>
   <td>
-Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.
-
-If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).
-
+Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.<br/>
+<br/>
+If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).<br/>
+<br/>
 After the meeting, we will retire to some establishment nearby for beverages and food.
   </td>
  </tr>
@@ -154,10 +154,10 @@ After the meeting, we will retire to some establishment nearby for beverages and
  <tr>
   <th>Description</th>
   <td>
-Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.
-
-If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).
-
+Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.<br/>
+<br/>
+If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).<br/>
+<br/>
 After the meeting, we will retire to some establishment nearby for beverages and food.
   </td>
  </tr>
@@ -176,10 +176,10 @@ After the meeting, we will retire to some establishment nearby for beverages and
  <tr>
   <th>Description</th>
   <td>
-Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.
-
-If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).
-
+Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.<br/>
+<br/>
+If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).<br/>
+<br/>
 After the meeting, we will retire to some establishment nearby for beverages and food.
   </td>
  </tr>
@@ -198,12 +198,12 @@ After the meeting, we will retire to some establishment nearby for beverages and
  <tr>
   <th>Description</th>
   <td>
-Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.
-
-In this meeting, we'll cover a topic we've discussed many times before, but one that can always use refreshing.  We'll be talking about BASH scripting (terminal scripts), which includes covering a variety of useful commands.  This is also a good time to re-cover another common topic, Regular Expressions; for finding patterns in text (i.e. file names/contents).
-
-If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).
-
+Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.<br/>
+<br/>
+In this meeting, we'll cover a topic we've discussed many times before, but one that can always use refreshing.  We'll be talking about BASH scripting (terminal scripts), which includes covering a variety of useful commands.  This is also a good time to re-cover another common topic, Regular Expressions; for finding patterns in text (i.e. file names/contents).<br/>
+<br/>
+If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).<br/>
+<br/>
 After the meeting, we will retire to some establishment nearby for beverages and food.
   </td>
  </tr>
@@ -222,14 +222,14 @@ After the meeting, we will retire to some establishment nearby for beverages and
  <tr>
   <th>Description</th>
   <td>
-Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.
-
-At "Show & Tell", you're encouraged to bring in something cool you've come across or done to share (i.e. a gift, hack, etc.).  This is also an opportunity to give a short talk on a topic that would otherwise not take up an entire meeting.
-
-Also, it's February again, which means we'll have our annual office elections.  If you're interested in what the offices are and/or interested in running, please let us know.
-
-If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).
-
+Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.<br/>
+<br/>
+At "Show & Tell", you're encouraged to bring in something cool you've come across or done to share (i.e. a gift, hack, etc.).  This is also an opportunity to give a short talk on a topic that would otherwise not take up an entire meeting.<br/>
+<br/>
+Also, it's February again, which means we'll have our annual office elections.  If you're interested in what the offices are and/or interested in running, please let us know.<br/>
+<br/>
+If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).<br/>
+<br/>
 After the meeting, we will retire to some establishment nearby for beverages and food.
   </td>
  </tr>

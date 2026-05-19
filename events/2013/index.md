@@ -14,10 +14,10 @@
  <tr>
   <th>Description</th>
   <td>
-Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.
-
-If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).
-
+Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.<br/>
+<br/>
+If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).<br/>
+<br/>
 After the meeting, we will retire to some establishment nearby for beverages and food.
   </td>
  </tr>
@@ -36,12 +36,12 @@ After the meeting, we will retire to some establishment nearby for beverages and
  <tr>
   <th>Description</th>
   <td>
-Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.
-
-At this meeting, we're planning on doing some introductory programming for Android devices.  We'll also talk about some of the basic concepts.  We encourage others at the meeting to join along.
-
-If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).
-
+Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.<br/>
+<br/>
+At this meeting, we're planning on doing some introductory programming for Android devices.  We'll also talk about some of the basic concepts.  We encourage others at the meeting to join along.<br/>
+<br/>
+If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).<br/>
+<br/>
 After the meeting, we will retire to Mackinaw Brewing Co..
   </td>
  </tr>
@@ -60,10 +60,10 @@ After the meeting, we will retire to Mackinaw Brewing Co..
  <tr>
   <th>Description</th>
   <td>
-Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.
-
-If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).
-
+Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.<br/>
+<br/>
+If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).<br/>
+<br/>
 After the meeting, we will retire to some establishment nearby for beverages and food.
   </td>
  </tr>
@@ -82,10 +82,10 @@ After the meeting, we will retire to some establishment nearby for beverages and
  <tr>
   <th>Description</th>
   <td>
-Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.
-
-If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).
-
+Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.<br/>
+<br/>
+If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).<br/>
+<br/>
 After the meeting, we will retire to some establishment nearby for beverages and food.
   </td>
  </tr>
@@ -104,12 +104,12 @@ After the meeting, we will retire to some establishment nearby for beverages and
  <tr>
   <th>Description</th>
   <td>
-Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.
-
-At this meeting, NiX0n will talk about various game console emulators (for Nintendo, Sega, Sony, etc.) that you can run in Linux.  We'll learn about how to set up game controllers, including how to hook up a Nintendo Wii Remote (AKA Wiimote).  We'll also talk about various tools/tricks.
-
-If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).
-
+Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.<br/>
+<br/>
+At this meeting, NiX0n will talk about various game console emulators (for Nintendo, Sega, Sony, etc.) that you can run in Linux.  We'll learn about how to set up game controllers, including how to hook up a Nintendo Wii Remote (AKA Wiimote).  We'll also talk about various tools/tricks.<br/>
+<br/>
+If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).<br/>
+<br/>
 After the meeting, we will retire to some establishment nearby for beverages and food.
   </td>
  </tr>
@@ -128,10 +128,10 @@ After the meeting, we will retire to some establishment nearby for beverages and
  <tr>
   <th>Description</th>
   <td>
-Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.
-
-If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).
-
+Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.<br/>
+<br/>
+If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).<br/>
+<br/>
 After the meeting, we will retire to some establishment in town for beverages and food.
   </td>
  </tr>
@@ -150,10 +150,10 @@ After the meeting, we will retire to some establishment in town for beverages an
  <tr>
   <th>Description</th>
   <td>
-Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.
-
-If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).
-
+Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.<br/>
+<br/>
+If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).<br/>
+<br/>
 After the meeting, we will retire to some establishment in town for beverages and food.
   </td>
  </tr>
@@ -172,12 +172,12 @@ After the meeting, we will retire to some establishment in town for beverages an
  <tr>
   <th>Description</th>
   <td>
-Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.
-
-Tonight, NiX0n will continue our discussion about XML. Learn about writing your own XML language with XML Schema Definitions (XSDs), and XML Stylesheet Transformations (XSLTs) to transform one document into another.
-
-If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).
-
+Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.<br/>
+<br/>
+Tonight, NiX0n will continue our discussion about XML. Learn about writing your own XML language with XML Schema Definitions (XSDs), and XML Stylesheet Transformations (XSLTs) to transform one document into another.<br/>
+<br/>
+If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).<br/>
+<br/>
 After the meeting, we will retire to some establishment in town for beverages and food.
   </td>
  </tr>
@@ -196,10 +196,10 @@ After the meeting, we will retire to some establishment in town for beverages an
  <tr>
   <th>Description</th>
   <td>
-GTLUG's monthly meeting is coming up on Tuesday, April 9th, 7:00pm at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.
-
-If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).
-
+GTLUG's monthly meeting is coming up on Tuesday, April 9th, 7:00pm at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.<br/>
+<br/>
+If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).<br/>
+<br/>
 After the meeting, we will retire to some establishment in town for beverages and food.
   </td>
  </tr>
@@ -218,12 +218,12 @@ After the meeting, we will retire to some establishment in town for beverages an
  <tr>
   <th>Description</th>
   <td>
-GTLUG's monthly meeting is coming up on Tuesday, March 12th, 7:00pm at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.
-
-At this meeting NiX0n will chat about MythTV, a Free Open Source digital video recorder that runs on Linux.
-
-If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).
-
+GTLUG's monthly meeting is coming up on Tuesday, March 12th, 7:00pm at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.<br/>
+<br/>
+At this meeting NiX0n will chat about MythTV, a Free Open Source digital video recorder that runs on Linux.<br/>
+<br/>
+If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).<br/>
+<br/>
 After the meeting, we will retire to some establishment in town for beverages and food.
   </td>
  </tr>
@@ -242,12 +242,12 @@ After the meeting, we will retire to some establishment in town for beverages an
  <tr>
   <th>Description</th>
   <td>
-GTLUG's monthly meeting is coming up on Tuesday, February 12th, 7:00pm at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.
-
-It's February, which means office elections will be held.
-
-If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).
-
+GTLUG's monthly meeting is coming up on Tuesday, February 12th, 7:00pm at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.<br/>
+<br/>
+It's February, which means office elections will be held.<br/>
+<br/>
+If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).<br/>
+<br/>
 After the meeting, we will retire to some establishment in town for beverages and food.
   </td>
  </tr>
@@ -266,14 +266,14 @@ After the meeting, we will retire to some establishment in town for beverages an
  <tr>
   <th>Description</th>
   <td>
-GTLUG's monthly meeting is coming up on Tuesday, January 8th, 7:00pm at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Nelson room.
-
-At "Show & Tell," bring in cool gadgets you may have got for Christmas/Chanukah or come across in the past few months. Or if you're working on something cool, or found out how to do something with your computer, show us your hacks.
-
-If you feel so inclined, this is your chance to do a short demo/talk on a topic that would otherwise not take up an entire meeting time.
-
-If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).
-
+GTLUG's monthly meeting is coming up on Tuesday, January 8th, 7:00pm at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Nelson room.<br/>
+<br/>
+At "Show & Tell," bring in cool gadgets you may have got for Christmas/Chanukah or come across in the past few months. Or if you're working on something cool, or found out how to do something with your computer, show us your hacks.<br/>
+<br/>
+If you feel so inclined, this is your chance to do a short demo/talk on a topic that would otherwise not take up an entire meeting time.<br/>
+<br/>
+If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).<br/>
+<br/>
 After the meeting, we will retire to some establishment for beverages and food.
   </td>
  </tr>

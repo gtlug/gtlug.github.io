@@ -14,12 +14,12 @@
  <tr>
   <th>Description</th>
   <td>
-Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.
-
-This month Derek will show how to create a live USB of Kali Linux with persistent storage.  Kali is a Linux distribution that focuses on penetration testing.  Having a means of running it on a temporary boot-able device, and writable storage on that same device can be handy.
-
-If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).
-
+Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.<br/>
+<br/>
+This month Derek will show how to create a live USB of Kali Linux with persistent storage.  Kali is a Linux distribution that focuses on penetration testing.  Having a means of running it on a temporary boot-able device, and writable storage on that same device can be handy.<br/>
+<br/>
+If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).<br/>
+<br/>
 After the meeting, we will retire to some establishment nearby for beverages and food.
   </td>
  </tr>
@@ -38,10 +38,10 @@ After the meeting, we will retire to some establishment nearby for beverages and
  <tr>
   <th>Description</th>
   <td>
-Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.
-
-If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).
-
+Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.<br/>
+<br/>
+If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).<br/>
+<br/>
 After the meeting, we will retire to some establishment nearby for beverages and food.
   </td>
  </tr>
@@ -60,12 +60,12 @@ After the meeting, we will retire to some establishment nearby for beverages and
  <tr>
   <th>Description</th>
   <td>
-Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.
-
-This month, we'll discuss the recent release of Ubuntu 18.04 LTS, AKA "Bionic Beaver".  Adam will also discuss recent projects, including attempted hard drive recovery.
-
-If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).
-
+Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.<br/>
+<br/>
+This month, we'll discuss the recent release of Ubuntu 18.04 LTS, AKA "Bionic Beaver".  Adam will also discuss recent projects, including attempted hard drive recovery.<br/>
+<br/>
+If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).<br/>
+<br/>
 After the meeting, we will retire to some establishment nearby for beverages and food.
   </td>
  </tr>
@@ -84,12 +84,12 @@ After the meeting, we will retire to some establishment nearby for beverages and
  <tr>
   <th>Description</th>
   <td>
-Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.
-
-This month, Adam will be discussing topic.  This detail will be interesting.  See technical specification per citation.
-
-If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).
-
+Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.<br/>
+<br/>
+This month, Adam will be discussing topic.  This detail will be interesting.  See technical specification per citation.<br/>
+<br/>
+If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).<br/>
+<br/>
 After the meeting, we will retire to some establishment nearby for beverages and food.
   </td>
  </tr>
@@ -108,12 +108,12 @@ After the meeting, we will retire to some establishment nearby for beverages and
  <tr>
   <th>Description</th>
   <td>
-Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.
-
-This month Steve will continue discussing his Raspberry Pi camera project.  Using the Raspberry Pi for both Fun and Security / WebCam.
-
-If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).
-
+Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.<br/>
+<br/>
+This month Steve will continue discussing his Raspberry Pi camera project.  Using the Raspberry Pi for both Fun and Security / WebCam.<br/>
+<br/>
+If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).<br/>
+<br/>
 After the meeting, we will retire to some establishment nearby for beverages and food.
   </td>
  </tr>
@@ -132,12 +132,12 @@ After the meeting, we will retire to some establishment nearby for beverages and
  <tr>
   <th>Description</th>
   <td>
-Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.
-
-At "Show & Tell", you're encouraged to bring in something cool you've come across or done to share (i.e. a gift, tool, toy, hack, etc.). This is also an opportunity to give a short talk on a topic that would otherwise not take up an entire meeting.
-
-If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).
-
+Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.<br/>
+<br/>
+At "Show & Tell", you're encouraged to bring in something cool you've come across or done to share (i.e. a gift, tool, toy, hack, etc.). This is also an opportunity to give a short talk on a topic that would otherwise not take up an entire meeting.<br/>
+<br/>
+If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).<br/>
+<br/>
 After the meeting, we will retire to some establishment nearby for beverages and food.
   </td>
  </tr>

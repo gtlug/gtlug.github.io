@@ -14,10 +14,10 @@
  <tr>
   <th>Description</th>
   <td>
-Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.
-
-If you have any questions, or comments, please post on the event wall, or /join us on IRC ( http://slashnet.org/channels/gtlug ).
-
+Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.<br/>
+<br/>
+If you have any questions, or comments, please post on the event wall, or /join us on IRC ( http://slashnet.org/channels/gtlug ).<br/>
+<br/>
 After the meeting, some of us will retire to some establishment nearby for beverages and food.
   </td>
  </tr>
@@ -36,10 +36,10 @@ After the meeting, some of us will retire to some establishment nearby for bever
  <tr>
   <th>Description</th>
   <td>
-Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.
-
-If you have any questions, or comments, please post on the event wall, or /join us on IRC ( http://slashnet.org/channels/gtlug ).
-
+Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.<br/>
+<br/>
+If you have any questions, or comments, please post on the event wall, or /join us on IRC ( http://slashnet.org/channels/gtlug ).<br/>
+<br/>
 After the meeting, some of us will retire to some establishment nearby for beverages and food.
   </td>
  </tr>
@@ -58,12 +58,12 @@ After the meeting, some of us will retire to some establishment nearby for bever
  <tr>
   <th>Description</th>
   <td>
-Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.
-
-At "Show & Tell", you're encouraged to bring in something cool you've come across or done to share (i.e. a gift, tool, toy, hack, etc.). This is also an opportunity to give a short talk on a topic that would otherwise not take up an entire meeting.
-
-If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).
-
+Please join us at GTLUG's monthly meeting at the Traverse Area District Library (Woodmere Ave.). We'll be meeting upstairs in the Thirlby room.<br/>
+<br/>
+At "Show & Tell", you're encouraged to bring in something cool you've come across or done to share (i.e. a gift, tool, toy, hack, etc.). This is also an opportunity to give a short talk on a topic that would otherwise not take up an entire meeting.<br/>
+<br/>
+If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).<br/>
+<br/>
 After the meeting, we will retire to some establishment nearby for beverages and food.
   </td>
  </tr>
