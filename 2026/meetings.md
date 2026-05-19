@@ -2,6 +2,58 @@
 <table>
  <tr>
   <th>When</th>
+  <td>Monday, June 8th @ 6:30PM</td>
+ </tr>
+ <tr>
+  <th>Topic</th>
+  <td>GrapheneOS</td>
+ </tr>
+ <tr>
+  <th>Description</th>
+  <td>
+This month we'll be discussing GrapheneOS, a security focused Android distribution, built on the vanilla Android Open Source Project (AOSP). Last year we did a similar talk on LineageOS, which also takes a similar approach. We'll look at how to install and what it's like to daily drive.
+We will also take time to discuss group infrastructure. With the continued intent of reducing our dependence on Facebook.
+  </td>
+ </tr>
+</table>
+<hr/>
+<table>
+ <tr>
+  <th>When</th>
+  <td>Monday, April 13th @ 6:30PM</td>
+ </tr>
+ <tr>
+  <th>Topic</th>
+  <td>Gaming & The State of Linux</td>
+ </tr>
+ <tr>
+  <th>Description</th>
+  <td>
+Linux has come a long way. What was once a common refrain from Windows gamers, "It won't play my games!"; now, may no longer be the case. We're going to dive into Lutris, Steam, and games that ship with Linux to see just how true that actually is, as well as one of if not the biggest driver in Windows-Linux compatibility layers. Thanks Valve!
+  </td>
+ </tr>
+</table>
+<hr/>
+<table>
+ <tr>
+  <th>When</th>
+  <td>Monday, March 9th @ 6:30PM</td>
+ </tr>
+ <tr>
+  <th>Topic</th>
+  <td>Ansible</td>
+ </tr>
+ <tr>
+  <th>Description</th>
+  <td>
+Linux has come a long way. What was once a common refrain from Windows gamers, "It won't play my games!"; now, may no longer be the case. We're going to dive into Lutris, Steam, and games that ship with Linux to see just how true that actually is, as well as one of if not the biggest driver in Windows-Linux compatibility layers. Thanks Valve!
+  </td>
+ </tr>
+</table>
+<hr/>
+<table>
+ <tr>
+  <th>When</th>
   <td>Monday, May 11th @ 6:30PM</td>
  </tr>
  <tr>
