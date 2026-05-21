@@ -2,23 +2,43 @@
 <img src="./images/gtlug_tux.png" alt="" align="right" />
 
 # Grand Traverse Linux Users Group
-GTLUG is a geographically local group (Traverse City, Michiaan) that meets regularly to serve the community by exploring and sharing open source technologies.  We have been meeting since 1999.  Linux is just a single open technologoy that we embrace but we dive into diverse ranges of technologicial topics.
+GTLUG is a geographically local group (Traverse City, Michiaan) that meets monthly.  We have been meeting since 1999.  We serve the community by exploring and various sharing open source technologies, including but not limited to Linux.
 
-Some examples:
+# Topics
+Linux is just one open source technologoy, but we embrace a diverse range of technologicial topics:
+
 - Free & Open Source Software (FOSS)
+- STEAM
+- Gaming
+- Networking
+  * Hardware
+  * Topologies
+  * Social 
+- Radio
+- Programming
+  * Open Hardware (Raspberry Pi, Arduino, etc.)
+  * Software Development
+  * Using Varoius Languages (BASH, C/C++, Javascript/Typescript, Python, PHP, etc.)
+  * Automation
+- Robotics
+- Multimedia Creation
+  * Audio Sythesis & Software
+  * Video Production & Post-Production
+  * Demos (Programmed Audiovisual Art)
+  * Glitch Exploitation
+- Hacker Culture
 - Linux Pro/Hobby/Home Use
 - Windows/Mac Users Welcome
-- Networking
-- Programming
-- STEAM
-- Multimedia Creation
-- Robotics
-- Hacking
-- Radio
-- Gaming
-- Much more!
+- So Much More!
 
-If any of this sounds good to you, or you have something you would like to share with the group, we would love to see you.
+If any of this sounds good to you, we would love to see you.
+
+## Have An Idea You'd Like to Share?
+Please come to a meeting, and we'll talk about it.  If it's a short topic, we can often make time for short "Show & Tell".  Otherwise, we can plan part or an entire meeting around your topic.
+
+There is also an annual "Show & Tell" meeting, where there is no planned topic at all, and attendants are encouraged (but not required) to "Bring a hack!"
+
+We encourage open discussion in our group.  It's a great place to share ideas and get honest feedback.  We hope you'll check us out.
 <hr/>
 
 # Meeting Recurrence
