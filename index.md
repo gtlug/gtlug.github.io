@@ -108,7 +108,10 @@ Here is an archive of past meetings.
 - [2012](/events/2012/)
 - [2011](/events/2011/)
 
-Check out our [Facebook page][facebook-url] for the latest details.
+# Contact
+The best places to contact the group today are:
+1. **IRC**: Our long-standing IRC channel is available on <a href="irc://irc.slashnet.org/#gtlug">irc.slashnet.org/#gtlug</a>.
+2. **Facebook**: Events are often posted and updated on [Facebook][facebook-url] first.  So check there for the latest details.  Post or send us a message, and we'll get back to you.
 
 [repo-url]: https://github.com/gtlug/gtlug.github.io/
 [contributors-shield]: https://img.shields.io/github/contributors/gtlug/gtlug.github.io.svg?style=for-the-badge
@@ -121,6 +124,7 @@ Check out our [Facebook page][facebook-url] for the latest details.
 [issues-url]: https://github.com/gtlug/gtlug.github.io/issues
 [license-shield]: https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge
 [license-url]: https://opensource.org/licenses/MIT
+[irc-url]: irc://irc.slashnet.org/#gtlug
 [facebook-url]: https://www.facebook.com/GTLUG/
 [facebook-svg]: https://upload.wikimedia.org/wikipedia/commons/b/b9/2023_Facebook_icon.svg
 [SQLite-url]: https://sqlite.org/
