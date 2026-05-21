@@ -4,7 +4,7 @@
 # Grand Traverse Linux Users Group
 GTLUG is a geographically local group (Traverse City, Michiaan) that meets monthly.  We have been meeting since 1999.  We serve the community by exploring and various sharing open source technologies, including but not limited to Linux.
 
-# Topics
+## Topics
 Linux is just one open source technologoy, but we embrace a diverse range of technologicial topics:
 
 - Free & Open Source Software (FOSS)
