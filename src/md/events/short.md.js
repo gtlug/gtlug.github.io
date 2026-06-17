@@ -12,7 +12,7 @@ module.exports = (event) => `
  <tr>
   <th>Description</th>
   <td>
-${event.description}
+${event.description.replace(/\n/g, '<br/>\n')}
   </td>
  </tr>
 </table>
