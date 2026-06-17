@@ -2,23 +2,43 @@
 <img src="./images/gtlug_tux.png" alt="" align="right" />
 
 # Grand Traverse Linux Users Group
-GTLUG is a geographically local group (Traverse City, Michiaan) that meets regularly to serve the community by exploring and sharing open source technologies.  We have been meeting since 1999.  Linux is just a single open technologoy that we embrace but we dive into diverse ranges of technologicial topics.
+GTLUG is a geographically local group (Traverse City, Michiaan) that meets monthly.  We have been meeting since 1999.  We serve the community by exploring and sharing various open source technologies, including but not limited to Linux.
 
-Some examples:
+## Topics
+Linux is just one open source technologoy, but we embrace a diverse range of technologicial topics:
+
 - Free & Open Source Software (FOSS)
+- STEAM
+- Gaming
+- Networking
+  * Hardware
+  * Topologies
+  * Social 
+- Radio
+- Programming
+  * Open Hardware (Raspberry Pi, Arduino, etc.)
+  * Software Development
+  * Using Varoius Languages (BASH, C/C++, Javascript/Typescript, Python, PHP, etc.)
+  * Automation
+- Robotics
+- Multimedia Creation
+  * Audio Sythesis & Software
+  * Video Production & Post-Production
+  * Demos (Programmed Audiovisual Art)
+  * Glitch Exploitation
+- Hacker Culture
 - Linux Pro/Hobby/Home Use
 - Windows/Mac Users Welcome
-- Networking
-- Programming
-- STEAM
-- Multimedia Creation
-- Robotics
-- Hacking
-- Radio
-- Gaming
-- Much more!
+- So Much More!
 
-If any of this sounds good to you, or you have something you would like to share with the group, we would love to see you.
+If any of this sounds good to you, we would love to see you.
+
+## Have An Idea You'd Like to Share?
+Please come to a meeting, and we'll talk about it.  If it's a short topic, we can often make time for short "Show & Tell".  Otherwise, we can plan part or an entire meeting around your topic.
+
+There is also an annual "Show & Tell" meeting, where there is no planned topic at all, and attendants are encouraged (but not required) to "Bring a hack!"
+
+We encourage open discussion in our group.  It's a great place to share ideas and get honest feedback.  We hope you'll check us out.
 <hr/>
 
 # Meeting Recurrence
@@ -71,6 +91,7 @@ If you have any questions, or comments, please post on the event wall, or /join 
   </td>
  </tr>
 </table>
+
 <!-- END UPCOMING EVENT -->
 <hr />
 
@@ -90,7 +111,10 @@ Here is an archive of past meetings.
 - [2012](/events/2012/)
 - [2011](/events/2011/)
 
-Check out our [Facebook page][facebook-url] for the latest details.
+# Contact
+The best places to contact the group today are:
+1. **IRC**: Our long-standing IRC channel is available on <a href="irc://irc.slashnet.org/#gtlug">irc.slashnet.org/#gtlug</a>.
+2. **Facebook**: Events are often posted and updated on [Facebook][facebook-url] first.  So check there for the latest details.  Post or send us a message, and we'll get back to you.
 
 [repo-url]: https://github.com/gtlug/gtlug.github.io/
 [contributors-shield]: https://img.shields.io/github/contributors/gtlug/gtlug.github.io.svg?style=for-the-badge
@@ -103,6 +127,7 @@ Check out our [Facebook page][facebook-url] for the latest details.
 [issues-url]: https://github.com/gtlug/gtlug.github.io/issues
 [license-shield]: https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge
 [license-url]: https://opensource.org/licenses/MIT
+[irc-url]: irc://irc.slashnet.org/#gtlug
 [facebook-url]: https://www.facebook.com/GTLUG/
 [facebook-svg]: https://upload.wikimedia.org/wikipedia/commons/b/b9/2023_Facebook_icon.svg
 [SQLite-url]: https://sqlite.org/
