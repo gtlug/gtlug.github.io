@@ -4,6 +4,7 @@
 	"description": "Grand Traverse Linux Users Group (GTLUG) GitHub Pages Official Website",
 	"main": "index.js",
 	"scripts": {
+		"sync": "node sync-events",
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"keywords": [
