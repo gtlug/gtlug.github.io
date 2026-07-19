@@ -3,22 +3,32 @@
 <table>
  <tr>
   <th>When</th>
-  <td>Monday, July 13, 2026 6:30 PM</td>
+  <td>Monday, August 10, 2026 6:30 PM</td>
  </tr>
  <tr>
   <th>Topic</th>
-  <td>Local LLMs - GTLUG Meeting (July 2026)</td>
+  <td>Local LLMs - Part II - GTLUG Meeting (August 2026)</td>
  </tr>
  <tr>
   <th>Description</th>
   <td>
 Please join us at GTLUG's monthly meeting--second Monday of the month.  As a reminder, we are now meeting at Northwestern Michigan College (NMC), in the lower level of the Timothy J. Nelson Innovation Center (TJNIC) building, Room #15.<br/>
 <br/>
-Are you interested in using Large Language Models (LLMs), similar to ChatGPT, Claude, etc., privately and locally, without a dependence on data centers?  Great news!  There's plenty of freely available open source models that you can download right now. This month, we will have a number of members who can share their experiences running local LLMs for productive tasks, beyond just chat.<br/>
+Are you interested in using AI in the form of Large Language Models (LLMs), similar to ChatGPT, Claude, etc., privately and locally, without a dependence on data centers?  Great news!  We're talking about just that.<br/>
 <br/>
-We'll talk about tools and the various software stack considerations.  We'll cover the basics so that you can be chatting with a model right away.  We'll also talk about having models doing actual work, as well as security considerations that come with it.<br/>
+This last month's (July) meeting introduced running LLMs locally on your own hardware.  There's plenty of freely available open source models that you can download right now. The topic is so dense, and there was so much to share, that there simply wasn't enough time to cover it all.  So, we decided that we were going to continue the discussion at the next meeting.<br/>
 <br/>
-Hope to see you there!<br/>
+This month, we will focus on using LLMs to do actual work.  We'll talk about:<br/>
+* More OpenWebUI<br/>
+* Tools<br/>
+* Skills<br/>
+* Agentic Workflows<br/>
+* Prompt Engineering<br/>
+* Security Considerations<br/>
+<br/>
+We hope to see you there!<br/>
+<br/>
+If you missed last month's meeting, don't worry.  We'll make sure this month is just as approachable as last, and that you'll be sure to get something out of it.<br/>
 <br/>
 If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).
   </td>
