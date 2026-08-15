@@ -3,32 +3,28 @@
 <table>
  <tr>
   <th>When</th>
-  <td>Monday, August 10, 2026 6:30 PM</td>
+  <td>Monday, September 14, 2026 6:30 PM</td>
  </tr>
  <tr>
   <th>Topic</th>
-  <td>Local LLMs - Part II - GTLUG Meeting (August 2026)</td>
+  <td>Projects Welcome! - GTLUG Meeting (September 2026)</td>
  </tr>
  <tr>
   <th>Description</th>
   <td>
 Please join us at GTLUG's monthly meeting--second Monday of the month.  As a reminder, we are now meeting at Northwestern Michigan College (NMC), in the lower level of the Timothy J. Nelson Innovation Center (TJNIC) building, Room #15.<br/>
 <br/>
-Are you interested in using AI in the form of Large Language Models (LLMs), similar to ChatGPT, Claude, etc., privately and locally, without a dependence on data centers?  Great news!  We're talking about just that.<br/>
+Do you have a project, that you think would benefit the community in some way, that you would like the LUG's help with?  We want to take some time at this meeting to consider new project proposals.<br/>
 <br/>
-This last month's (July) meeting introduced running LLMs locally on your own hardware.  There's plenty of freely available open source models that you can download right now. The topic is so dense, and there was so much to share, that there simply wasn't enough time to cover it all.  So, we decided that we were going to continue the discussion at the next meeting.<br/>
+We're also considering starting a separate LUG project space and meeting time that we can dedicate to project work time; as opposed to discussion at our general meetings.<br/>
 <br/>
-This month, we will focus on using LLMs to do actual work.  We'll talk about:<br/>
-* More OpenWebUI<br/>
-* Tools<br/>
-* Skills<br/>
-* Agentic Workflows<br/>
-* Prompt Engineering<br/>
-* Security Considerations<br/>
+After discussing future new project work.  We will switch gears into planning/working on existing projects.<br/>
 <br/>
-We hope to see you there!<br/>
+We would like to announce a project in collaboration with The Fun Factory.  No dates have been planned yet, but the intent is to be able to host Artemis: Spaceship [Star Trek] Bridge Simulator for open play, on a day they will be open specifically for us.<br/>
 <br/>
-If you missed last month's meeting, don't worry.  We'll make sure this month is just as approachable as last, and that you'll be sure to get something out of it.<br/>
+We need to work out both the logistics, as well as test play the game to determine best requirements.  We can take some time during this meeting to do a classic "install fest" for the game, and perhaps play a game or two.<br/>
+<br/>
+We've also got a model rocket project that we'll discuss any updates on.<br/>
 <br/>
 If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).
   </td>
