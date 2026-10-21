@@ -8,7 +8,7 @@
  </tr>
  <tr>
   <th>Topic</th>
-  <td>Starship Bridge Simulator - Gaming Event by GTLUG @ Fun Factory</td>
+  <td>Starship Bridge Simulator - A GTLUG @ Fun Factory Gaming Event</td>
  </tr>
  <tr>
   <th>Description</th>
@@ -30,20 +30,82 @@ Hope to see you there!
 <table>
  <tr>
   <th>When</th>
-  <td>Monday, October 12, 2026 6:30 PM</td>
+  <td>Monday, November 9, 2026 6:30 PM</td>
  </tr>
  <tr>
   <th>Topic</th>
-  <td>GTLUG Meeting (October 2026)</td>
+  <td>Open Drones - GTLUG Meeting (November 2026)</td>
  </tr>
  <tr>
   <th>Description</th>
   <td>
 Please join us at GTLUG's monthly meeting--second Monday of the month.  As a reminder, we are now meeting at Northwestern Michigan College (NMC), in the lower level of the Timothy J. Nelson Innovation Center (TJNIC) building, Room #15.<br/>
 <br/>
-This months topic is still TBD.  There are tentative plans to continue the rocketry project, and maybe get a launch planned for sometime in October.<br/>
+This month we'll be talking about open drone technology.<br/>
 <br/>
-If there's any interest, since it's October, we can discuss "spooky"/paranormal subjects as well.<br/>
+But first, there will be a rocket launch scheduled the Saturday before the meeting.  If all that is successful, we may review possible drone footage from the event.  See rocket launch event for more details.<br/>
+<br/>
+At the meeting, Ryan our presenter will discuss open drone technology.<br/>
+<br/>
+We will also certainly discuss preparations for the upcoming gaming event over at the Fun Factory (on Saturday 11/21).  See other Facebook event for details.<br/>
+<br/>
+If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).
+  </td>
+ </tr>
+</table>
+<hr/>
+
+<table>
+ <tr>
+  <th>When</th>
+  <td>Saturday, November 7, 2026 4:00 PM</td>
+ </tr>
+ <tr>
+  <th>Topic</th>
+  <td>Rocket Launch - GTLUG Project Event</td>
+ </tr>
+ <tr>
+  <th>Description</th>
+  <td>
+Please join us at a special GTLUG event.<br/>
+<br/>
+GTLUG has been working on a model rocketry project for well over a year.  We're happy to announce that we're finally ready for our first launch, and invite you to join us.<br/>
+<br/>
+We've chosen the Silver Lake Recreation Area as a launch site.<br/>
+<br/>
+The project involves modifying some basic Estes-powered "egg lofter" models, to include a telemetry module.  Specifically, we've iterated over 3D-printed nose-code designs.  We're using a telemetry module with an open source firmware.<br/>
+<br/>
+If you would like to know more about the project in detail, there will be a presentation at the nest Grand Traverse Astronomical Society (GTAS) meeting Friday, November 6th at 8pm.  See GTAS for details.<br/>
+<br/>
+The following Monday, November 9th, we will have our regular monthly meeting, where we will likely debrief on the weekend's event.  See that event for details.<br/>
+<br/>
+If weather, or other issues arise, the Facebook event will be the FIRST place a cancellation will be posted.<br/>
+<br/>
+If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).
+  </td>
+ </tr>
+</table>
+<hr/>
+
+<table>
+ <tr>
+  <th>When</th>
+  <td>Monday, October 12, 2026 6:30 PM</td>
+ </tr>
+ <tr>
+  <th>Topic</th>
+  <td>AI Reverse Engineering Rocket Telemetry - GTLUG Meeting (October 2026)</td>
+ </tr>
+ <tr>
+  <th>Description</th>
+  <td>
+Please join us at GTLUG's monthly meeting--second Monday of the month.  As a reminder, we are now meeting at Northwestern Michigan College (NMC), in the lower level of the Timothy J. Nelson Innovation Center (TJNIC) building, Room #15.<br/>
+<br/>
+This month we'll be doing a bit of a mash-up of recent topics.  We're continuing the rocketry project, with hopes of having our first launch later this month or early next.  This meeting, we'll discuss efforts to use agentic LLMs to reverse engineer our reference firmware and build a decoder/mapping tool.<br/>
+<br/>
+We'll also discuss any rocketry hardware updates.  We've got final nose cone designs (at least for this first iteration anyway), and are ready to print.<br/>
+<br/>
+If it looks like it's possible for us to launch, we'll discuss dates.  There will be another Facebook event for it.<br/>
 <br/>
 We will also certainly discuss preparations for the upcoming gaming event over at the Fun Factory (on Saturday 11/21).  See other Facebook event for details.<br/>
 <br/>

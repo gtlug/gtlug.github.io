@@ -65,29 +65,109 @@ We encourage open discussion in our group.  It's a great place to share ideas an
 </table>
 <hr/>
 
-# Upcoming Meeting
+# Upcoming Events
 <!-- BEGIN UPCOMING EVENT -->
+
 <table>
  <tr>
   <th>When</th>
-  <td>Monday, October 12, 2026 6:30 PM</td>
+  <td>Saturday, November 7, 2026 4:00 PM</td>
+ </tr>
+ <tr>
+  <th>Where</th>
+  <td>
+   <a href="https://maps.app.goo.gl/PGed6ibxKGRbeHNK8">Silver Lake Recreation Area</a>
+  </td>
  </tr>
  <tr>
   <th>Topic</th>
-  <td>GTLUG Meeting (October 2026)</td>
+  <td>Rocket Launch - GTLUG Project Event</td>
+ </tr>
+ <tr>
+  <th>Description</th>
+  <td>
+Please join us at a special GTLUG event.<br/>
+<br/>
+GTLUG has been working on a model rocketry project for well over a year.  We're happy to announce that we're finally ready for our first launch, and invite you to join us.<br/>
+<br/>
+We've chosen the Silver Lake Recreation Area as a launch site.<br/>
+<br/>
+The project involves modifying some basic Estes-powered "egg lofter" models, to include a telemetry module.  Specifically, we've iterated over 3D-printed nose-code designs.  We're using a telemetry module with an open source firmware.<br/>
+<br/>
+If you would like to know more about the project in detail, there will be a presentation at the nest Grand Traverse Astronomical Society (GTAS) meeting Friday, November 6th at 8pm.  See GTAS for details.<br/>
+<br/>
+The following Monday, November 9th, we will have our regular monthly meeting, where we will likely debrief on the weekend's event.  See that event for details.<br/>
+<br/>
+If weather, or other issues arise, the Facebook event will be the FIRST place a cancellation will be posted.<br/>
+<br/>
+If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).
+  </td>
+ </tr>
+</table>
+<hr/>
+
+<table>
+ <tr>
+  <th>When</th>
+  <td>Monday, November 9, 2026 6:30 PM</td>
+ </tr>
+ <tr>
+  <th>Where</th>
+  <td>
+   Northwestern Micghian College (NMC)<br/>
+   <a href="https://maps.app.goo.gl/GXEQxYpDg6zW5dK79">Timothy J. Nelson Innovation Center (TJNIC)</a><br/>
+   Room #15 (Downstairs)
+  </td>
+ </tr>
+ <tr>
+  <th>Topic</th>
+  <td>Open Drones - GTLUG Meeting (November 2026)</td>
  </tr>
  <tr>
   <th>Description</th>
   <td>
 Please join us at GTLUG's monthly meeting--second Monday of the month.  As a reminder, we are now meeting at Northwestern Michigan College (NMC), in the lower level of the Timothy J. Nelson Innovation Center (TJNIC) building, Room #15.<br/>
 <br/>
-This months topic is still TBD.  There are tentative plans to continue the rocketry project, and maybe get a launch planned for sometime in October.<br/>
+This month we'll be talking about open drone technology.<br/>
 <br/>
-If there's any interest, since it's October, we can discuss "spooky"/paranormal subjects as well.<br/>
+But first, there will be a rocket launch scheduled the Saturday before the meeting.  If all that is successful, we may review possible drone footage from the event.  See rocket launch event for more details.<br/>
+<br/>
+At the meeting, Ryan our presenter will discuss open drone technology.<br/>
 <br/>
 We will also certainly discuss preparations for the upcoming gaming event over at the Fun Factory (on Saturday 11/21).  See other Facebook event for details.<br/>
 <br/>
 If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).
+  </td>
+ </tr>
+</table>
+<hr/>
+<table>
+ <tr>
+  <th>When</th>
+  <td>Saturday, November 21, 2026 1:00 PM</td>
+ </tr>
+ <tr>
+  <th>Where</th>
+  <td>
+   <a href="https://maps.app.goo.gl/WJvAott663hbTKDD9">The Fun Factory</a>
+  </td>
+ </tr>
+ <tr>
+  <th>Topic</th>
+  <td>Starship Bridge Simulator - A GTLUG @ Fun Factory Gaming Event</td>
+ </tr>
+ <tr>
+  <th>Description</th>
+  <td>
+GTLUG is teaming up with The Fun Factory to host a brand new event.  We will be playing Artemis Cosmos, a starship bridge simulator--a game heavily inspired by Star Trek.  This is in coordination with the upcoming set release of Star Trek, Magic the Gathering.  There will be concurrent card gameplay going on all weekend long.<br/>
+<br/>
+Artemis uses several locally networked computers, to provide various bridge console "stations" (i.e. main screen, helm, communications, engineering, etc.).  Games consist of various mission types.  The game can also scale from a single bridge, to multiple ships working together.<br/>
+<br/>
+The Fun Factory will provide the space for us to play.  GTLUG, and its members, will provide much of the technology (i.e. networking, computers, etc.), all running some form of Linux (as opposed to Windows or Mac).  This is an optional BYOC event, so if you have a machine, Linux or otherwise, you'd like to play on, you're welcome to join the LAN party.  The more machines playing, the more stations and ships we can have playing at once.<br/>
+<br/>
+We are still working some of the out the details, and will likely be discussed further at interim GTLUG meetings.  So stay tuned.<br/>
+<br/>
+Hope to see you there!
   </td>
  </tr>
 </table>
