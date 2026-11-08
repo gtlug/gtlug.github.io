@@ -194,8 +194,10 @@ Here is an archive of past meetings.
 The best places to contact the group today are:
 1. **IRC**: Our long-standing IRC channel is available on <a href="irc://irc.slashnet.org/#gtlug">irc.slashnet.org/#gtlug</a>.
 2. **Facebook**: Events are often posted and updated on [Facebook][facebook-url] first.  So check there for the latest details.  Post or send us a message, and we'll get back to you.
+3. **GitHub**: This website's source, as well as other group projects (i.e. rocketry), have [published Git repositories available][github-url].
 
 [repo-url]: https://github.com/gtlug/gtlug.github.io/
+[github-url]: https://github.com/gtlug/
 [contributors-shield]: https://img.shields.io/github/contributors/gtlug/gtlug.github.io.svg?style=for-the-badge
 [contributors-url]: https://github.com/gtlug/gtlug.github.io/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/gtlug/gtlug.github.io.svg?style=for-the-badge
