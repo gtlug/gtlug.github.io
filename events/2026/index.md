@@ -4,6 +4,28 @@
 <table>
  <tr>
   <th>When</th>
+  <td>Monday, December 14, 2026 6:30 PM</td>
+ </tr>
+ <tr>
+  <th>Topic</th>
+  <td>DIY Ornaments - GTLUG Meeting (December 2026)</td>
+ </tr>
+ <tr>
+  <th>Description</th>
+  <td>
+Join us at our monthly meeting—2nd Monday of the month. Located on NMC's main campus, at the Timothy J. Nelson Innovation Center (TJNIC), in room #15 (lower level).<br/>
+<br/>
+It's the holiday season, and time for festive decorations.  At this month's meeting, we'll talk about how you can build some unique and dazzling ornaments for your home/office or Christmas tree.<br/>
+<br/>
+If you have any questions, or comments, please post on the event wall, or /join us on IRC (see event host for details).
+  </td>
+ </tr>
+</table>
+<hr/>
+
+<table>
+ <tr>
+  <th>When</th>
   <td>Saturday, November 21, 2026 1:00 PM</td>
  </tr>
  <tr>
